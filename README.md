@@ -37,7 +37,7 @@ Which categories and products are driving performance, where are declines occurr
 4. Identify day-of-week and monthly sales patterns.
 5. Provide data-backed insights for the Category Manager.
 
-## PROJECT WORKFLOW
+## Project Workflow
 
 **Raw Dataset**  
 ↓  
