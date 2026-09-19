@@ -39,51 +39,29 @@ Which categories and products are driving performance, where are declines occurr
 
 ## PROJECT WORKFLOW
 
-```text
-┌─────────────────────┐
-│     Raw Dataset     │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ Data Understanding  │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│    Data Cleaning    │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ Data Preprocessing  │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│   EDA Analysis      │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ Univariate Analysis │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│  Bivariate Analysis │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ Correlation Analysis│
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ Data Visualization  │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│  Key Insights       │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ Summary & Presentation│
-└─────────────────────┘
-
+**Raw Dataset**  
+↓  
+**Data Understanding**  
+↓  
+**Data Cleaning**  
+↓  
+**Data Preprocessing**  
+↓  
+**Exploratory Data Analysis (EDA)**  
+↓  
+**Univariate Analysis**  
+↓  
+**Bivariate Analysis**  
+↓  
+**Correlation Analysis**  
+↓  
+**Data Visualization**  
+↓  
+**Identify Patterns & Trends**  
+↓  
+**Generate Key Insights**  
+↓  
+**Summary & Presentation**
 ## Technologies Used
 
 - Python
