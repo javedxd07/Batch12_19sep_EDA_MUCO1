@@ -36,8 +36,9 @@ Which categories and products are driving performance, where are declines occurr
 3. Evaluate the effectiveness of different discount levels.
 4. Identify day-of-week and monthly sales patterns.
 5. Provide data-backed insights for the Category Manager.
+   
+PROJECT WORKFLOW
 
-**📊 Project Workflow
 Raw Dataset
      ↓
 Data Understanding
@@ -46,13 +47,19 @@ Data Cleaning
      ↓
 Data Preprocessing
      ↓
-Exploratory Data Analysis
+Exploratory Data Analysis (EDA)
+     ↓
+Univariate Analysis
+     ↓
+Bivariate Analysis
+     ↓
+Correlation Analysis
      ↓
 Data Visualization
      ↓
-Pattern & Relationship Analysis
+Identify Patterns & Trends
      ↓
-Key Insights
+Generate Key Insights
      ↓
 Summary & Presentation
 
