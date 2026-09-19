@@ -154,7 +154,7 @@ Through this project, the team demonstrates the ability to:
 
 **Group 12**
 KL University
-B.Tech – Computer Science and Engineering (Honors)
+B.Tech – Computer Science and Engineering
 
 ---
 
