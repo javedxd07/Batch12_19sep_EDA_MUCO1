@@ -37,31 +37,7 @@ Which categories and products are driving performance, where are declines occurr
 4. Identify day-of-week and monthly sales patterns.
 5. Provide data-backed insights for the Category Manager.
 
-## Project Workflow
 
-**Raw Dataset**  
-↓  
-**Data Understanding**  
-↓  
-**Data Cleaning**  
-↓  
-**Data Preprocessing**  
-↓  
-**Exploratory Data Analysis (EDA)**  
-↓  
-**Univariate Analysis**  
-↓  
-**Bivariate Analysis**  
-↓  
-**Correlation Analysis**  
-↓  
-**Data Visualization**  
-↓  
-**Identify Patterns & Trends**  
-↓  
-**Generate Key Insights**  
-↓  
-**Summary & Presentation**
 ## Technologies Used
 
 - Python
